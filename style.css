@@ -189,7 +189,7 @@ margin-left: 5%;
        color: #3f3f3f;
        margin-top: 30%; 
        margin: 5%;
-     margin-top: -345%;
+     margin-top: -520%;
        font-weight: 600;
 }
 .copas{
@@ -224,7 +224,12 @@ margin-left: 5%;
   margin-top: 2%;
   
 }
-
+.linea3{
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 12%;
+  
+}
 .linea{
   width: 60%;
   margin-left: 20%;
@@ -288,7 +293,7 @@ margin-left: 5%;
 .regalos{
   width: 10%;
   margin-left: 45%;
-  margin-top: 10%;
+  margin-top: -4%;
 }
 
 .vestido{
@@ -309,7 +314,7 @@ margin-left: 5%;
   box-shadow: 1px 1px 30px -5px#a9a9a9; 
   cursor: pointer;
   margin-left: 35%;
-  background-color: #CCB29C;
+background-color: #C88CA9;
 }
 
 .parrafoD{
@@ -360,7 +365,7 @@ margin-left: 5%;
   font-family: 'Alex Brush', cursive;
        font-size: 33px;
        color: #3f3f3f;
-       margin-top: 20%; 
+       margin-top: 10%; 
        font-weight: 600;
   }
   .parrafo9{
