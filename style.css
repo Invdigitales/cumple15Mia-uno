@@ -190,7 +190,7 @@ margin-left: 5%;
        margin-top: 30%; 
        margin: 5%;
      margin-top: -345%;
-       font-weight: 500;
+       font-weight: 600;
 }
 .copas{
   width: 10%;
@@ -198,7 +198,12 @@ margin-left: 5%;
   margin-top: -3%;
   
 }
-
+.carta{
+  width: 10%;
+  margin-left: 45%;
+  margin-top: -3%;
+  
+}
 
 .calendario{
   width: 70%;
@@ -213,7 +218,12 @@ margin-left: 5%;
        margin-top: 10%;
        
 }
-
+.linea2{
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 2%;
+  
+}
 
 .linea{
   width: 60%;
@@ -238,8 +248,9 @@ margin-left: 5%;
 
 .parrafo3{
   text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-       font-size: 18px;
+  font-family: 'Alex Brush', cursive;
+
+       font-size: 33px;
        color: #343333;
        font-weight: 600;
        margin-top: 10%;
@@ -311,20 +322,21 @@ margin-left: 5%;
 }
 .parrafo5{
   text-align: center;
+  font-family: 'Alex Brush', cursive;
+  
+       font-size: 33px;
+       color: #3f3f3f;
+       font-weight: 600;
+       margin-top: 7%;
+}
+
+.parrafo6{
+  text-align: center;
   font-family: 'Julius Sans One', sans-serif;
        font-size: 20px;
        color: #3f3f3f;
        font-weight: 600;
        margin-top: 5%;
-}
-
-.parrafo6{
-text-align: center;
-font-family: 'Alex Brush', cursive;
-     font-size: 33px;
-     color: #3f3f3f;
-     margin-top: 20%; 
-     font-weight: 600;
 }
 
 
